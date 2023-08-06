@@ -1,4 +1,4 @@
-# Geometic_control
+# Geometric_control
 ## Description
 - This is a reproduction of the paper.
 - Control output is thrust and torque.
